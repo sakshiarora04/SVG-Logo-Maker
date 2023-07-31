@@ -59,11 +59,16 @@ The following images show the application's appearance and functionality :
 
 * Command line
 
-![nodejs](./Develop/assets/images/nodejs.png)
+![nodejs](./assets/images/nodejs.jpg)
 
-* Sample readme
+* Sample logos
 
-![sample-readme](./Develop/assets/images/sample-readme.gif)
+![sample-logo1](./examples/logo.svg)
+
+![sample-logo2](./examples/logo1.svg)
+
+![sample-logo3](./examples/logo2.svg)
+
 
 * Walkthrough
 
