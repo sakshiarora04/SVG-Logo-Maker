@@ -2,7 +2,7 @@
 
 ## Description
 
-This SVG logo maker is command line application that runs with node.js and allows user to dynamically generate "logo.svg" file in output folder with svg, text and shape html tag based upon the input entered in regard to questions prompted for logo text, text color , shape of logo and shape color. Shape and text colors can be chosen using color keywords or hexadecimal numbers. Some samples are shown in examples folder
+This SVG logo maker is command line application that runs with node.js and allows user to dynamically generate "logo.svg" file in output folder with svg, text and shape html tag based upon the input entered in regard to questions prompted for logo text, text color , shape of logo and shape color. Shape and text colors can be chosen using color keywords or hexadecimal numbers. Some samples are shown in examples folder.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ The application then takes all responses and will dynamically generate high qual
 
 User can enter hexadecimal or color keyword value in shape or text color question. If user put some invalid color keyword or hexadecimal number less than 6 digits then it will display message on screen as 'Please enter valid color' and will allow the user to edit it without running index.js again. 
 
-After answering all questions, it will generate logo and display 'Generated logo.svg' on screen.
+After answering all questions, it will generate logo.svg in output folder and display 'Generated logo.svg' on screen.
 
 Link to walkthrough video in google drive:
 
@@ -94,6 +94,8 @@ After reviewing, your feature branch will be merged.
 References:
 
 https://jestjs.io/docs/28.x/using-matchers
+
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 ## Contact Information
 
