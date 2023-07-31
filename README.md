@@ -49,11 +49,11 @@ After answering all questions, it will generate logo and display 'Generated logo
 
 Link to walkthrough video in google drive:
 
-https://drive.google.com/file/d/1Ve4nlMDyGd3w2wrMK1C_G1Jt82kZqZ35/view?usp=drive_link
+https://drive.google.com/file/d/1jfaUaANQghFULbeyfN79AHDVN1stvT6c/view?usp=sharing
 
 Link to walkthrough video in Screencastify:
 
-https://app.screencastify.com/manage/videos/osMqjiNpfEkVuR1FJix4
+https://app.screencastify.com/manage/videos/ZGHbm7vX3o9hEQghwCdu
 
 The following images show the application's appearance and functionality :
 
@@ -72,7 +72,7 @@ The following images show the application's appearance and functionality :
 
 * Walkthrough
 
-![walkthrough](./Develop/assets/images/walkthrough.gif)
+![walkthrough](./assets/images/walkthrough.gif)
 
 
 ## Contribution
